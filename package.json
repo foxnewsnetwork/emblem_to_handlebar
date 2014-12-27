@@ -1,0 +1,31 @@
+{
+  "name": "emblem_to_handlebar",
+  "version": "1.0.0",
+  "description": "An emblem to handlebarjs compiler. This is not a templating language.",
+  "main": "index.js",
+  "scripts": {
+    "test": "rake test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foxnewsnetwork/emblem_to_handlebar"
+  },
+  "keywords": [
+    "emblem",
+    "handlebars",
+    "ember",
+    "template",
+    "compiler"
+  ],
+  "author": "Thomas Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foxnewsnetwork/emblem_to_handlebar/issues"
+  },
+  "homepage": "https://github.com/foxnewsnetwork/emblem_to_handlebar",
+  "devDependencies": {
+    "broccoli": "^0.13.3",
+    "coffee-script": "^1.8.0",
+    "jison": "^0.4.15"
+  }
+}
